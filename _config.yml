@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E8E8D0'
+    - '#A81828'
+    - '#6890A8'
+    - '#E02830'
+    - '#E04060'
+  brandStrength: 0.45045
+  lightness: 0.610705
+  rhythmicContrast: 0.370948
+  saturation: 0.350502
+cta: {}
+layout_spectrum: 0.995495
+name: Sex
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.186936
