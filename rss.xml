@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Free]]></title>
+        <description><![CDATA[Free]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 22:44:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Factual Case for Criminal Justice Reform]]></title>
+            <description><![CDATA[<article><h1>The Factual Case for Criminal Justice Reform</h1><p>These days, it's hard to find legislation in Washington, D.C. that has bipartisan support. It's even harder to find legislation that will help people improve their lives instead of making their lives worse. Yet that's exactly what both houses of Congress are currently doing through criminal justice reform legislation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c71882fa4d8f040124f09bff5122bbe5dfe86ad.jpg"></article>]]></description>
+            <link>undefinedthe-factual-case-for-criminal-justice-reform/index.html</link>
+            <guid isPermaLink="false">81760792-73f5-449d-88fd-fb1cbce8f780</guid>
+            <pubDate>Tue, 01 Mar 2016 22:44:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
