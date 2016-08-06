@@ -1,17 +1,20 @@
 ---
-dateModified: '2016-05-24T02:22:44.485Z'
-description: Time to Free an Innocent Man
-inFeed: true
-title: Free Scott Davis
 isBasedOnUrl: 'http://freescottdavis.org/blog/'
+title: ''
+datePublished: '2016-08-06T23:39:22.541Z'
+dateModified: '2016-08-06T23:39:19.980Z'
 author: []
+inFeed: true
+description: Time to Free an Innocent Man
+publisher: {}
+via: {}
 starred: false
-datePublished: '2016-05-24T02:22:57.093Z'
 sourcePath: _posts/2016-05-24-free-scott-davis.md
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
-<article style=""><img src="http://freescottdavis.org/blog/wp-content/uploads/2015/05/1430059690-300x225.png" /><h1>Free Scott Davis</h1></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/236192b9-ca45-4d6e-911b-05059f02bdad.jpg)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f3e5851ef44abaadc741b37af5c00be02b0e460.png" /><h1>Free Scott Davis</h1><p>An Innocent Man</p></article>
 
 Time to Free an Innocent Man
